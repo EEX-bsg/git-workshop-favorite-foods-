@@ -6,7 +6,7 @@
 ## 参加方法
 
 1. このリポジトリを clone する（事前に案内された招待を承認してください）。
-2. 自分の作業用ブランチを作る。例：`git switch -c food/自分のID`
+2. 自分の作業用ブランチを作る。例：`git switch -c feature/自分のID`
 3. `foods/` に好きな食べ物の Markdown ファイルを追加するか、既存の食べ物ファイルに自分の一言を追記する。
 4. 変更を commit して、自分のブランチを push する。
 5. GitHub で `main` に向けた Pull Request（PR）を作る。
